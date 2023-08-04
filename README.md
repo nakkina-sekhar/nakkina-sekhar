@@ -1,5 +1,5 @@
  <h1 align="center">Hey Everyone 👋, I'm Nakkina Sekhar</h1>
- <div align="center"><img src="https://raw.githubusercontent.com/nakkina-sekhar/nakkina-sekhar/main/"></div>
+ <div align="center"><img src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif"></div>
 <h3 align="center">A passionate FullStack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakkina-sekhar&label=Profile%20views&color=0e75b6&style=flat" alt="nakkina-sekhar" /> </p>
